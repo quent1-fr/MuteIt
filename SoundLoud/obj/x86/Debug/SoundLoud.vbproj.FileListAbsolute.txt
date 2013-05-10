@@ -1,0 +1,42 @@
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\bin\Debug\SoundLoud.exe
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\bin\Debug\SoundLoud.pdb
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\bin\Debug\SoundLoud.xml
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\SoundLoud.Resources.resources
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\SoundLoud.exe
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\SoundLoud.xml
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\SoundLoud.pdb
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\SoundLoud.Status.resources
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\SoundLoud.Service.resources
+C:\Users\quentin\AppData\Local\Temporary Projects\SoundLoud\obj\x86\Debug\SoundLoud.AboutBox1.resources
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.exe
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.xml
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.pdb
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\bin\Debug\SoundLoud.exe
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\bin\Debug\SoundLoud.pdb
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\bin\Debug\SoundLoud.xml
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.Service.resources
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.Status.resources
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.Resources.resources
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.Apropos.resources
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\bin\Debug\CoreAudio.dll
+F:\Desktop\soundloud\projet\SoundLoud\SoundLoud\obj\x86\Debug\SoundLoud.Aide.resources
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Desktop\soundloud\projet\SoundLoud\bin\Debug\MuteIt.exe
+F:\Desktop\soundloud\projet\SoundLoud\bin\Debug\MuteIt.pdb
+F:\Desktop\soundloud\projet\SoundLoud\bin\Debug\MuteIt.xml
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.Help.resources
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.About.resources
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.Service.resources
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.Status.resources
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.Resources.resources
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.exe
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.xml
+F:\Desktop\soundloud\projet\SoundLoud\obj\x86\Debug\MuteIt.pdb
