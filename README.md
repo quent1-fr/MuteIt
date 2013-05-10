@@ -13,3 +13,5 @@ Logo par Acidrums4 - http://acidrums4.deviantart.com/
 Images par Picol - http://www.picol.org/
 La classe utilisée pour créer un "hook du clavier" provient de http://goo.gl/ZjMhp
 Ce programme a été codé par Quentin Bouteiller - http://www.quent1.fr/
+## Note
+The original name of the project was "SoundLoud". This is why some file and folders are called "soundloud" and not "muteit". Don't be worry about it, it's not a mistaken upload :-).
